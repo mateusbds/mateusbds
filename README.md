@@ -7,6 +7,3 @@ Hello! I'm Mateus, 28 years old and I do web coding. I also love coding games fo
 
 🎈 I work mostly on internal projects and freelancing.
 
-___
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programateus&hide=html,css)](https://github.com/programateus/github-readme-stats)
