@@ -9,4 +9,4 @@ Hello! I'm Mateus, 28 years old and I do web coding. I also love coding games fo
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbds&hide=html,css)](https://github.com/mateusbds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programateus&hide=html,css)](https://github.com/programateus/github-readme-stats)
